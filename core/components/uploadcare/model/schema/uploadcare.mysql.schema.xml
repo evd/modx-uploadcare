@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="uploadcare" baseClass="xPDOObject" platform="mysql" defaultEngine="MyISAM" phpdoc-package="uploadcare">
+    <object class="UploadcareMediaSource" extends="modMediaSource" />
+</model>
